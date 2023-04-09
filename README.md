@@ -13,6 +13,17 @@ Prerequisites :
 - seaborn
 - nltk
 
+## Dataset
+
+The dataset used in this project is the Boston Airbnb Open Data from Kaggle. It contains information about Airbnb listings, including property features, host information, and guest reviews.
+
+The dataset consists of three files:
+
+- `listings.csv`: Detailed information about each listing, such as property type, price, location, and more.
+- `calendar.csv`: Availability and price information for each listing on a daily basis.
+- `reviews.csv`: Detailed reviews left by guests for each listing.
+You can download the dataset from (Kaggle - Boston Airbnb Open Data)[https://www.kaggle.com/datasets/airbnb/boston].
+
 ## Installation
 
 1. Clone this repository :

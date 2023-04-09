@@ -11,6 +11,7 @@ The dataset consists of three files:
 - `listings.csv`: Detailed information about each listing, such as property type, price, location, and more.
 - `calendar.csv`: Availability and price information for each listing on a daily basis.
 - `reviews.csv`: Detailed reviews left by guests for each listing.
+
 You can download the dataset from [Kaggle - Boston Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/boston).
 
 ## Analysis Overview
